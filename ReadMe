@@ -1,0 +1,6 @@
+This project is related to Unit Test Assignment in SER515
+
+It uses JUnit for Unit Testing and Code Coverage
+It uses Gradle for Code Coverage
+
+I will use Travis CI to deploy this code using GitHub
