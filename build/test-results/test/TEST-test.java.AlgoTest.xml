@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2018-10-22T01:25:52" hostname="DESKTOP-5C97D45" time="0.052">
+  <properties/>
+  <testcase name="ifItemisNull_InsertionSort" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="ifItemisNull_QuickSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ifItemisNull_MergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfTwoUnSortedItems_BubbleSort" classname="test.java.AlgoTest" time="0.035"/>
+  <testcase name="IfOnlyOneItem_BubbleSort" classname="test.java.AlgoTest" time="0.003"/>
+  <testcase name="IfMoreThanTwoUnSortedItems_HeapSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="ifItemisNull_SelectionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedItems_InsertionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ifItemisNull_BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoSortedItems_InsertionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoSortedItems_BubbleSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="IfTwoSortedItems_BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ifItemisNull_HeapSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedFirstHalfSortedItems_BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedItems_SelectionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoSortedItems_QuickSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="IfMoreThanTwoSortedItems_HeapSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedItems_BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoSortedItems_MergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedItems_QuickSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedSecondHalfSortedItems_BubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="IfMoreThanTwoUnSortedItems_MergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
